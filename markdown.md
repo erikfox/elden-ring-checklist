@@ -22,10 +22,12 @@
 
 ## East Limgrave
 - [ ] Speak to [Kenneth Haight](https://eldenring.wiki.fextralife.com/Kenneth+Haight) to the [📍 north of Mistwood Outskirts](https://eldenring.wiki.fextralife.com/Interactive+Map?id=831&lat=-182.46875&lng=117.305543&zoom=8&code=mapA) to begin his questline.
+  - [ ] Defeat all the enemies at [📍 Fort Haight](https://eldenring.wiki.fextralife.com/Interactive+Map?id=770&lat=-194.304687&lng=125.418491&zoom=8&code=mapA) then head back to tell him of your success.
+  - [ ] Return to [📍 Fort Haight](https://eldenring.wiki.fextralife.com/Interactive+Map?id=770&lat=-194.304687&lng=125.418491&zoom=8&code=mapA) and speak to him again.
 - [ ] After hearing howling [📍 near the Mistwood Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4258&lat=-189.739063&lng=118.792343&zoom=8&code=mapA), speak to [Merchant Kale](https://eldenring.wiki.fextralife.com/Merchant+Kale). Then speak to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) to begin his questline.
   - [ ] Defeat [Bloodhound Knight Darriwil](https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Darriwil) at the [📍 Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/interactive+map?id=766&lat=-202.796875&lng=113.191478&zoom=8&code=mapA) then speak to him nearby after the fight.
+- [ ] After defeating the [Tibia Mariner](https://eldenring.wiki.fextralife.com/Tibia+Mariner) at [📍 Summonwater Village](https://eldenring.wiki.fextralife.com/Interactive+Map?id=965&lat=-174.21875&lng=118.227006&zoom=8&code=mapA), speak to [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D+Beholder+of+Death) at [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+  - [ ] Follow is directions and speak to [Gurranq, Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman).
 
-
-...
-
-- [ ] Give [Roderika](https://eldenring.wiki.fextralife.com/Roderika) the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) found [📍 here](https://eldenring.wiki.fextralife.com/Interactive+Map?id=925&lat=-179.625&lng=86.605711&zoom=8&code=mapA).
+## South Limgrave / The Weeping Peninsula
+- [ ] Speak to [Irina](https://eldenring.wiki.fextralife.com/Irina) along [📍 the road into The Weeping Peninsula](https://eldenring.wiki.fextralife.com/Interactive+Map?id=489&lat=-207.28125&lng=117.402738&zoom=8&code=mapA) to begin her questline. 
