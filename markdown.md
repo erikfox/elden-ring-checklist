@@ -22,6 +22,8 @@
 
 ## East Limgrave
 - [ ] Speak to [Kenneth Haight](https://eldenring.wiki.fextralife.com/Kenneth+Haight) to the [📍 north of Mistwood Outskirts](https://eldenring.wiki.fextralife.com/Interactive+Map?id=831&lat=-182.46875&lng=117.305543&zoom=8&code=mapA) to begin his questline.
+- [ ] After hearing howling [📍 near the Mistwood Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4258&lat=-189.739063&lng=118.792343&zoom=8&code=mapA), speak to [Merchant Kale](https://eldenring.wiki.fextralife.com/Merchant+Kale). Then speak to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) to begin his questline.
+  - [ ] Defeat [Bloodhound Knight Darriwil](https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Darriwil) at the [📍 Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/interactive+map?id=766&lat=-202.796875&lng=113.191478&zoom=8&code=mapA) then speak to him nearby after the fight.
 
 
 ...
