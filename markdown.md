@@ -10,12 +10,12 @@
 - [ ] Speak to [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen) in [📍 the cellar at Waypoint Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=707&lat=-193.273437&lng=114.989218&zoom=8&code=mapA) to begin her questline.
 - [ ] To begin [Roderika](https://eldenring.wiki.fextralife.com/Roderika)'s questline, do any one of:
   - [ ] Speak to her at [📍 Stormhill Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=29&lat=-181.195312&lng=95.699559&zoom=8&code=mapA).
-  - [ ] Speak to her at [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+  - [ ] Speak to her at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
 - [ ] Speak to [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl) at [📍 Warmaster's Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1216&lat=-179.7&lng=101.5&zoom=8&code=mapA).
 - [ ] Speak to [Iron Fist Alexander](https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander) off [📍 the road from Warmaster's Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=772&lat=-175.859375&lng=107.059972&zoom=8&code=mapA) to begin his questline.
 - [ ] To begin [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D+Beholder+of+Death)'s questline, do any one of:
   - [ ] Speak to him [📍 west of Summonwater Village](https://eldenring.wiki.fextralife.com/Interactive+Map?id=962&lat=-175.21875&lng=113.59036&zoom=8&code=mapA) to begin his questline.
-  - [ ] Speak to him at [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+  - [ ] Speak to him at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
 - [ ] To begin [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura)'s questline, do any one of:
   - [ ] Speak to him [📍 south of Agheel Lake](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5&lat=-198.039062&lng=108.340774&zoom=8&code=mapA).
   - [ ] Defeat invader [Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Bloody+Finger+Nerijus) at [📍 Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1215&lat=-187.29&lng=110.082&zoom=8&code=mapA) and he will come to your aid, then speak to him [📍 north of Murkwater Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5918&lat=-182.164062&lng=110.970145&zoom=8&code=mapA).
@@ -34,4 +34,13 @@
   - [ ] Speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar) at [📍 Castle Morne](https://eldenring.wiki.fextralife.com/Interactive+Map?id=476&lat=-224.898437&lng=110.691781&zoom=8&code=mapA), then beat the area boss and speak to him again.
   - [ ] Return to where you found [Irina](https://eldenring.wiki.fextralife.com/Irina) and speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar).
 
+## Roundtable Hold
+- [ ] Unlock the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) if you haven't already, then:
+  - [ ] Speak to [Gideon Ofnir](https://eldenring.wiki.fextralife.com/Gideon+Ofnir) to begin his questline.
+  - [ ] Speak to [Fia](https://eldenring.wiki.fextralife.com/Fia) and allow her to hold you to begin her questline.
+  - [ ] Speak to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) to start his questline.
+  - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos) to start his questline.
+
 ## Stormveil Castle
+- [ ] Find the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) found [📍 atop a pile of corpses](https://eldenring.wiki.fextralife.com/Interactive+Map?id=925&lat=-179.625&lng=86.605711&zoom=8&code=mapA) and give it to [Roderika](https://eldenring.wiki.fextralife.com/Roderika).
+  - [ ] After [Roderika](https://eldenring.wiki.fextralife.com/Roderika) moves to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold), go back and forth speaking to her and [Smithing Master Hewg](https://eldenring.wiki.fextralife.com/Smithing+Master+Hewg) for her to become a vendor.
