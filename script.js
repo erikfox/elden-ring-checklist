@@ -1,5 +1,5 @@
 (async () => {
-  await fetch('/checklist.md')
+  await fetch(BASE_URL + '/checklist.md')
     .then(response => response.text())
     .then(result => {
       var html = marked.parse(result);
@@ -8,7 +8,7 @@
     });
   
   [...document.querySelectorAll("input[type='checkbox']")].forEach(el => {
-    var checklistItem = el.parentNode.innerText;
+    var checklistItem = el.parentNode.innerText.trim();
 
     el.disabled = false;
     el.setAttribute('data-checkbox-id', checklistItem)
