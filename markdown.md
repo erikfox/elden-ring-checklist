@@ -5,8 +5,8 @@
 - [West Limgrave](#west-limgrave)
 - [East Limgrave](#east-limgrave)
 - [The Weeping Peninsula](#the-weeping-peninsula)
-- [Stormveil Castle](#stormveil-castle)
 - [Roundtable Hold](#roundtable-hold)
+- [Stormveil Castle](#stormveil-castle)
 
 ## West Limgrave
 - [ ] Speak to [White-Faced Varre](https://eldenring.wiki.fextralife.com/White-Faced+Varre) just north of [📍 The First Step](https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8&code=mapA) to begin his questline.
