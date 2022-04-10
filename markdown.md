@@ -1,4 +1,5 @@
 # Elden Ring Checklist
+<sup>*Feel free to leave and come back! Your checklist state is saved in your browser's [localStorage](https://javascript.info/localstorage).*</sup>
 
 ## West Limgrave
 - [ ] Speak to [White-Faced Varre](https://eldenring.wiki.fextralife.com/White-Faced+Varre) just north of [📍 The First Step](https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8&code=mapA) to begin his questline.

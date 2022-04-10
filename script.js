@@ -1,5 +1,5 @@
 (async () => {
-  await fetch(BASE_URL + '/checklist.md')
+  await fetch(BASE_URL + '/markdown.md')
     .then(response => response.text())
     .then(result => {
       var html = marked.parse(result);
