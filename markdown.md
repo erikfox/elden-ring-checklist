@@ -1,6 +1,13 @@
 # Elden Ring Checklist
 <sup>*Feel free to leave and come back! Your checklist state is saved in your browser's [localStorage](https://javascript.info/localstorage).*</sup>
 
+## Table of Contents
+- [West Limgrave](#west-limgrave)
+- [East Limgrave](#east-limgrave)
+- [The Weeping Peninsula](#the-weeping-peninsula)
+- [Stormveil Castle](#stormveil-castle)
+- [Roundtable Hold](#roundtable-hold)
+
 ## West Limgrave
 - [ ] Speak to [White-Faced Varre](https://eldenring.wiki.fextralife.com/White-Faced+Varre) just north of [📍 The First Step](https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8&code=mapA) to begin his questline.
 - [ ] Speak to [Merchant Kale](https://eldenring.wiki.fextralife.com/Merchant+Kale) at [📍 Church of Elleh](https://eldenring.wiki.fextralife.com/Interactive+Map?id=355&lat=-192.460937&lng=100.200443&zoom=8&code=mapA).
@@ -29,7 +36,7 @@
 - [ ] After defeating the [Tibia Mariner](https://eldenring.wiki.fextralife.com/Tibia+Mariner) at [📍 Summonwater Village](https://eldenring.wiki.fextralife.com/Interactive+Map?id=965&lat=-174.21875&lng=118.227006&zoom=8&code=mapA), speak to [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D+Beholder+of+Death) at [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
   - [ ] Follow is directions and speak to [Gurranq, Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman).
 
-## South Limgrave / The Weeping Peninsula
+## The Weeping Peninsula
 - [ ] Speak to [Irina](https://eldenring.wiki.fextralife.com/Irina) along [📍 the road into The Weeping Peninsula](https://eldenring.wiki.fextralife.com/Interactive+Map?id=489&lat=-207.28125&lng=117.402738&zoom=8&code=mapA) to begin her questline.
   - [ ] Speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar) at [📍 Castle Morne](https://eldenring.wiki.fextralife.com/Interactive+Map?id=476&lat=-224.898437&lng=110.691781&zoom=8&code=mapA), then beat the area boss and speak to him again.
   - [ ] Return to where you found [Irina](https://eldenring.wiki.fextralife.com/Irina) and speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar).
