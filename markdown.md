@@ -49,5 +49,11 @@
   - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos) to start his questline.
 
 ## Stormveil Castle
+- [ ] Speak to [Gatekeeper Gostoc](https://eldenring.wiki.fextralife.com/Gatekeeper+Gostoc) at the [📍 entrance to the castle](https://eldenring.wiki.fextralife.com/Interactive+map?id=6394&lat=-181.578125&lng=89.153153&zoom=8&code=mapA) to begin his questline.
+  - [ ] Once you have the [Rusty Key](https://eldenring.wiki.fextralife.com/Rusty+Key) he will become a vendor.
 - [ ] Find the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento) found [📍 atop a pile of corpses](https://eldenring.wiki.fextralife.com/Interactive+Map?id=925&lat=-179.625&lng=86.605711&zoom=8&code=mapA) and give it to [Roderika](https://eldenring.wiki.fextralife.com/Roderika).
   - [ ] After [Roderika](https://eldenring.wiki.fextralife.com/Roderika) moves to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold), go back and forth speaking to her and [Smithing Master Hewg](https://eldenring.wiki.fextralife.com/Smithing+Master+Hewg) for her to become a vendor.
+- [ ] Speak to [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier) at [📍 the chapel in the north-west of the castle](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1103&lat=-177.660938&lng=85.012938&zoom=8&code=mapA) to begin his questline.
+  - [ ] After defeating the area boss he will move to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to him there.
+  - [ ] While being held by [Fia](https://eldenring.wiki.fextralife.com/Fia), speak to her about him.
+  - [ ] After defeating the [Ulcerated Tree Spirit](https://eldenring.wiki.fextralife.com/Lesser+Ulcerated+Tree+Spirit) underneath the castle, speak to him.
