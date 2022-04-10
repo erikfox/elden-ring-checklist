@@ -30,7 +30,7 @@
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.3.6/purify.min.js" integrity="sha512-DJjvM/U3zCRpzrYboJgg23iLHapWcS2rlo7Ni18Cdv+FMs6b3gUF7hQihztj4uVkHHfUwk7dha97jVzRqUJ7hg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script type="text/javascript">
-            var BASE_URL = window.location.toString();
+            var BASE_URL = window.location.origin + window.location.pathname;
             var script = document.createElement('script');
             script.setAttribute('src', BASE_URL + '/script.js');
             document.head.appendChild(script);
