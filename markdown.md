@@ -30,4 +30,8 @@
   - [ ] Follow is directions and speak to [Gurranq, Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman).
 
 ## South Limgrave / The Weeping Peninsula
-- [ ] Speak to [Irina](https://eldenring.wiki.fextralife.com/Irina) along [📍 the road into The Weeping Peninsula](https://eldenring.wiki.fextralife.com/Interactive+Map?id=489&lat=-207.28125&lng=117.402738&zoom=8&code=mapA) to begin her questline. 
+- [ ] Speak to [Irina](https://eldenring.wiki.fextralife.com/Irina) along [📍 the road into The Weeping Peninsula](https://eldenring.wiki.fextralife.com/Interactive+Map?id=489&lat=-207.28125&lng=117.402738&zoom=8&code=mapA) to begin her questline.
+  - [ ] Speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar) at [📍 Castle Morne](https://eldenring.wiki.fextralife.com/Interactive+Map?id=476&lat=-224.898437&lng=110.691781&zoom=8&code=mapA), then beat the area boss and speak to him again.
+  - [ ] Return to where you found [Irina](https://eldenring.wiki.fextralife.com/Irina) and speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar).
+
+## Stormveil Castle
