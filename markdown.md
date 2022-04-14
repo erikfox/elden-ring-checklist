@@ -31,7 +31,6 @@
 
   - [ ] Golden Seeds
     - [ ] Phantom tree [📍 west of Stormgate](https://eldenring.wiki.fextralife.com/Interactive+Map?id=520&lat=-183.34375&lng=95.785416&zoom=8&code=mapA).
-    - [ ] Given by [Roderika](https://eldenring.wiki.fextralife.com/Roderika) at [📍 Stormhill Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=29&lat=-181.195312&lng=95.699559&zoom=8&code=mapA) in exchange for the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento), or left after she leaves.
     - [ ] Dropped after defeating the boss at [📍 Fringefolk Hero's Grave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3850&lat=-196.882812&lng=101.777823&zoom=8&code=mapA).
 </details>
 
@@ -88,3 +87,10 @@
   - [ ] [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier) will move to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to him there.
     - [ ] While being held by [Fia](https://eldenring.wiki.fextralife.com/Fia), speak to her about him.
     - [ ] After defeating the [Ulcerated Tree Spirit](https://eldenring.wiki.fextralife.com/Lesser+Ulcerated+Tree+Spirit) underneath the castle, speak to him.
+
+<details>
+  <summary>Universal Items</summary>
+
+  - [ ] Golden Seeds
+    - [ ] Given by [Roderika](https://eldenring.wiki.fextralife.com/Roderika) in exchange for the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento), or left at [📍 Stormhill Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=29&lat=-181.195312&lng=95.699559&zoom=8&code=mapA) after she leaves.
+</details>
