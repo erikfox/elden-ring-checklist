@@ -10,16 +10,6 @@
 
 ## West Limgrave
 
-<details>
-  <summary>Universal Items</summary>
-
-  - [ ] Golden Seeds
-    - [ ] Phantom tree [📍 west of Stormgate](https://eldenring.wiki.fextralife.com/Interactive+Map?id=520&lat=-183.34375&lng=95.785416&zoom=8&code=mapA).
-    - [ ] Given by [Roderika](https://eldenring.wiki.fextralife.com/Roderika) at [📍 Stormhill Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=29&lat=-181.195312&lng=95.699559&zoom=8&code=mapA) in exchange for the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento), or left after she leaves.
-    - [ ] Dropped after defeating the boss at [📍 Fringefolk Hero's Grave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3850&lat=-196.882812&lng=101.777823&zoom=8&code=mapA).
-    - [ ] Dropped after defeating [Kenneth Haight](https://eldenring.wiki.fextralife.com/Kenneth+Haight) (will end questline prematurely).
-</details>
-
 - [ ] Speak to [White-Faced Varre](https://eldenring.wiki.fextralife.com/White-Faced+Varre) just north of [📍 The First Step](https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8&code=mapA) to begin his questline.
 - [ ] Speak to [Merchant Kale](https://eldenring.wiki.fextralife.com/Merchant+Kale) at [📍 Church of Elleh](https://eldenring.wiki.fextralife.com/Interactive+Map?id=355&lat=-192.460937&lng=100.200443&zoom=8&code=mapA).
 - [ ] Speak to [Boc The Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) and begin his questline by attacking the talking tree [📍 south-east from Gatefront Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=367&lat=-188.351562&lng=107.571681&zoom=8&code=mapA).
@@ -36,14 +26,16 @@
 - [ ] Fight, spare, and the speak to [Patches](https://eldenring.wiki.fextralife.com/Patches) at [📍 Murkwater Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1218&lat=-186.34&lng=109.36&zoom=8&code=mapA) to begin his quest. You must interact with the chest at the end of the dungeon in order to trigger the fight.
 - [ ] To begin [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura)'s questline, defeat invader [Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Bloody+Finger+Nerijus) at [📍 Bloody Finger Nerijus](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1215&lat=-187.29&lng=110.082&zoom=8&code=mapA) and he will come to your aid, then speak to him [📍 north of Murkwater Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5918&lat=-182.164062&lng=110.970145&zoom=8&code=mapA).
 
-## East Limgrave
-
 <details>
   <summary>Universal Items</summary>
 
   - [ ] Golden Seeds
-    - [ ] Phantom tree [📍 outside Fort Haight](https://eldenring.wiki.fextralife.com/Interactive+Map?id=807&lat=-194.75&lng=124.168221&zoom=8&code=mapA).
+    - [ ] Phantom tree [📍 west of Stormgate](https://eldenring.wiki.fextralife.com/Interactive+Map?id=520&lat=-183.34375&lng=95.785416&zoom=8&code=mapA).
+    - [ ] Given by [Roderika](https://eldenring.wiki.fextralife.com/Roderika) at [📍 Stormhill Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=29&lat=-181.195312&lng=95.699559&zoom=8&code=mapA) in exchange for the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento), or left after she leaves.
+    - [ ] Dropped after defeating the boss at [📍 Fringefolk Hero's Grave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3850&lat=-196.882812&lng=101.777823&zoom=8&code=mapA).
 </details>
+
+## East Limgrave
 
 - [ ] After defeating the [Tibia Mariner](https://eldenring.wiki.fextralife.com/Tibia+Mariner) at [📍 Summonwater Village](https://eldenring.wiki.fextralife.com/Interactive+Map?id=965&lat=-174.21875&lng=118.227006&zoom=8&code=mapA), speak to [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D+Beholder+of+Death) at [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
   - [ ] Follow is directions and speak to [Gurranq, Beast Clergyman](https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman).
@@ -54,7 +46,19 @@
 - [ ] After hearing howling [📍 near the Mistwood Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4258&lat=-189.739063&lng=118.792343&zoom=8&code=mapA), speak to [Merchant Kale](https://eldenring.wiki.fextralife.com/Merchant+Kale). Then speak to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) to begin his questline.
   - [ ] Defeat [Bloodhound Knight Darriwil](https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Darriwil) at the [📍 Forlorn Hound Evergaol](https://eldenring.wiki.fextralife.com/interactive+map?id=766&lat=-202.796875&lng=113.191478&zoom=8&code=mapA) then speak to him nearby after the fight.
 
+<details>
+  <summary>Universal Items</summary>
+
+  - [ ] Golden Seeds
+    - [ ] Phantom tree [📍 outside Fort Haight](https://eldenring.wiki.fextralife.com/Interactive+Map?id=807&lat=-194.75&lng=124.168221&zoom=8&code=mapA).
+    - [ ] Dropped after defeating [Kenneth Haight](https://eldenring.wiki.fextralife.com/Kenneth+Haight) (will end questline prematurely).
+</details>
+
 ## The Weeping Peninsula
+
+- [ ] Speak to [Irina](https://eldenring.wiki.fextralife.com/Irina) along [📍 the road into The Weeping Peninsula](https://eldenring.wiki.fextralife.com/Interactive+Map?id=489&lat=-207.28125&lng=117.402738&zoom=8&code=mapA) to begin her questline.
+  - [ ] Speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar) at [📍 Castle Morne](https://eldenring.wiki.fextralife.com/Interactive+Map?id=476&lat=-224.898437&lng=110.691781&zoom=8&code=mapA), then beat the area boss and speak to him again.
+  - [ ] Return to where you found [Irina](https://eldenring.wiki.fextralife.com/Irina) and speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar).
 
 <details>
   <summary>Universal Items</summary>
@@ -62,10 +66,6 @@
   - [ ] Golden Seeds
     - [ ] Phantom tree [📍 on the road to Castle Morne](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5961&lat=-219.82&lng=112.25&zoom=8&code=mapA).
 </details>
-
-- [ ] Speak to [Irina](https://eldenring.wiki.fextralife.com/Irina) along [📍 the road into The Weeping Peninsula](https://eldenring.wiki.fextralife.com/Interactive+Map?id=489&lat=-207.28125&lng=117.402738&zoom=8&code=mapA) to begin her questline.
-  - [ ] Speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar) at [📍 Castle Morne](https://eldenring.wiki.fextralife.com/Interactive+Map?id=476&lat=-224.898437&lng=110.691781&zoom=8&code=mapA), then beat the area boss and speak to him again.
-  - [ ] Return to where you found [Irina](https://eldenring.wiki.fextralife.com/Irina) and speak to [Edgar](https://eldenring.wiki.fextralife.com/Edgar).
 
 ## Roundtable Hold
 - [ ] Unlock the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) if you haven't already, then:
