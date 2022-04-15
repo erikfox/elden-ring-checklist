@@ -87,6 +87,7 @@
   - [ ] [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier) will move to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to him there.
     - [ ] After defeating the [Ulcerated Tree Spirit](https://eldenring.wiki.fextralife.com/Lesser+Ulcerated+Tree+Spirit) underneath the castle, speak to him.
     - [ ] While being held by [Fia](https://eldenring.wiki.fextralife.com/Fia), speak to her about him.
+  - [ ] Speak to [Enia](https://eldenring.wiki.fextralife.com/Enia) at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
 
 <details>
   <summary>Universal Items</summary>
