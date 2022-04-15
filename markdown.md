@@ -85,8 +85,8 @@
   - [ ] [Nepheli Loux](https://eldenring.wiki.fextralife.com/Nepheli) will move to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to her there.
     - [ ] You can also ask [Gideon Ofnir](https://eldenring.wiki.fextralife.com/Gideon+Ofnir) about her.
   - [ ] [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier) will move to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to him there.
-    - [ ] While being held by [Fia](https://eldenring.wiki.fextralife.com/Fia), speak to her about him.
     - [ ] After defeating the [Ulcerated Tree Spirit](https://eldenring.wiki.fextralife.com/Lesser+Ulcerated+Tree+Spirit) underneath the castle, speak to him.
+    - [ ] While being held by [Fia](https://eldenring.wiki.fextralife.com/Fia), speak to her about him.
 
 <details>
   <summary>Universal Items</summary>
@@ -94,3 +94,5 @@
   - [ ] Golden Seeds
     - [ ] Given by [Roderika](https://eldenring.wiki.fextralife.com/Roderika) in exchange for the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento), or left at [📍 Stormhill Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=29&lat=-181.195312&lng=95.699559&zoom=8&code=mapA) after she leaves.
 </details>
+
+##
