@@ -10,7 +10,7 @@
 
 ## West Limgrave
 
-- [ ] Speak to [White-Faced Varre](https://eldenring.wiki.fextralife.com/White-Faced+Varre) just north of [📍 The First Step](https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8&code=mapA) to begin his questline.
+- [ ] Speak to [White Mask Varre](https://eldenring.wiki.fextralife.com/White+Mask+Varre) just north of [📍 The First Step](https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8&code=mapA) to begin his questline.
 - [ ] Speak to [Merchant Kale](https://eldenring.wiki.fextralife.com/Merchant+Kale) at [📍 Church of Elleh](https://eldenring.wiki.fextralife.com/Interactive+Map?id=355&lat=-192.460937&lng=100.200443&zoom=8&code=mapA).
 - [ ] Speak to [Boc The Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) and begin his questline by attacking the talking tree [📍 south-east from Gatefront Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=367&lat=-188.351562&lng=107.571681&zoom=8&code=mapA).
   - [ ] Fetch the [Sewing Needle](https://eldenring.wiki.fextralife.com/Sewing+Needle) and [Tailoring Tools](https://eldenring.wiki.fextralife.com/Tailoring+Tools) from [📍 Coastal Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=38&lat=-195.170313&lng=96.059086&zoom=8&code=mapA) and return them to [Boc The Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) at [📍 Boc The Seamster (Second Location)](https://eldenring.wiki.fextralife.com/Interactive+Map?id=373&lat=-194.5&lng=96.684138&zoom=8&code=mapA).
@@ -104,3 +104,5 @@
   - [ ] Retrieve her necklace from [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) who is sitting [📍 near the Boilprawn Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4547&code=mapA). Return it to her.
 - [ ] Purchase [Boiled Prawns](https://eldenring.wiki.fextralife.com/Boiled+Prawn) from [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) to begin his questline.
 - [ ] Speak to [Patches](https://eldenring.wiki.fextralife.com/Patches), [📍 west of the telescope](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3272&code=mapA).
+- [ ] Speak to [White Mask Varre](https://eldenring.wiki.fextralife.com/White+Mask+Varre) at the [📍 Rose Church](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1325&code=mapA).
+  - [ ] Invade three times, then speak to him again.
