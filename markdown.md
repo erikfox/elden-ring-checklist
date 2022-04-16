@@ -117,6 +117,7 @@
   - [ ] After this, he will return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to him there.
 
 ## Raya Lucaria Academy
+- [ ] Activate the red summon sign [📍 east of the Main Academy Gate](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6130&code=mapA) to be summoned to help [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura) defeat his opponent. After returning to your world, speak to him again.
 
 ## North Liurnia of the Lakes
 <!-- TODO: Finish linking below -->
