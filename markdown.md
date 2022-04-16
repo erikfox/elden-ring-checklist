@@ -7,6 +7,7 @@
 - [The Weeping Peninsula](#the-weeping-peninsula)
 - [Roundtable Hold](#roundtable-hold)
 - [Stormveil Castle](#stormveil-castle)
+- [South Liurnia of the Lakes](#south-liurnia-of-the-lakes)
 
 ## West Limgrave
 
@@ -108,6 +109,9 @@
 - [ ] Speak to [White Mask Varre](https://eldenring.wiki.fextralife.com/White+Mask+Varre) at the [📍 Rose Church](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1325&code=mapA).
   - [ ] Invade three times, then speak to him again.
   - [ ] After following his instructions related to the [Lord of Blood's Favor](https://eldenring.wiki.fextralife.com/Lord+of+Blood's+Favor), speak to him again.
+- [ ] Defeat [Edgar the Revenger](https://eldenring.wiki.fextralife.com/Edgar+the+Revenger) at the [📍 Revenger's Shack](https://eldenring.wiki.fextralife.com/Interactive+map?id=5919&code=mapA).
+- [ ] Speak to [Latenna](https://eldenring.wiki.fextralife.com/Latenna) past the boss of the [📍 Lakeside Crystal Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4268&code=mapA).
 - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos) in the [📍 Academy Gate Town](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6128&code=mapA).
   - [ ] After this, he will return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to him there.
-- [ ] Speak to [Latenna](https://eldenring.wiki.fextralife.com/Latenna) past the boss of the [📍 Lakeside Crystal Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4268&code=mapA).
+
+## Raya Lucaria Academy
