@@ -8,6 +8,8 @@
 - [Roundtable Hold](#roundtable-hold)
 - [Stormveil Castle](#stormveil-castle)
 - [South Liurnia of the Lakes](#south-liurnia-of-the-lakes)
+- [Raya Lucaria Academy](#raya-lucaria-academy)
+- [North Liurnia of the Lakes](#north-liurnia-of-the-lakes)
 
 ## West Limgrave
 
@@ -115,3 +117,7 @@
   - [ ] After this, he will return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to him there.
 
 ## Raya Lucaria Academy
+
+## North Liurnia of the Lakes
+<!-- TODO: Finish linking below -->
+- [ ] Speak to [Miriel]() at the [📍 Church of Vows]().
