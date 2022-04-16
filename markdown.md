@@ -102,5 +102,5 @@
 - [ ] Speak to [Thops](https://eldenring.wiki.fextralife.com/Thops) at the [📍 Church of Irith](https://eldenring.wiki.fextralife.com/Interactive+Map?id=799&code=mapA).
 - [ ] Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya) in a pavillion [📍 near the telescope in the south of the lake](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6127&code=mapA).
   - [ ] Retrieve her necklace from [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) who is sitting [📍 near the Boilprawn Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4547&code=mapA). Return it to her.
-  - [ ] Purchase [Boiled Prawns](https://eldenring.wiki.fextralife.com/Boiled+Prawn) from [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) to begin his questline.
+- [ ] Purchase [Boiled Prawns](https://eldenring.wiki.fextralife.com/Boiled+Prawn) from [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) to begin his questline.
 - [ ] Speak to [Patches](https://eldenring.wiki.fextralife.com/Patches), [📍 west of the telescope](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3272&code=mapA).
