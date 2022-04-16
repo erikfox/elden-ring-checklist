@@ -108,3 +108,4 @@
 - [ ] Speak to [White Mask Varre](https://eldenring.wiki.fextralife.com/White+Mask+Varre) at the [📍 Rose Church](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1325&code=mapA).
   - [ ] Invade three times, then speak to him again.
 - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos) in the [📍 Academy Gate Town](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6128&code=mapA).
+  - [ ] After this, he will return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to him there. 
