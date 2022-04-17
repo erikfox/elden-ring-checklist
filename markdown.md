@@ -97,7 +97,7 @@
     - [ ] Given by [Roderika](https://eldenring.wiki.fextralife.com/Roderika) in exchange for the [Chrysalids' Memento](https://eldenring.wiki.fextralife.com/Chrysalids'+Memento), or left at [📍 Stormhill Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=29&lat=-181.195312&lng=95.699559&zoom=8&code=mapA) after she leaves.
 </details>
 
-## South Liurnia of the Lakes
+## Liurnia of the Lakes
 - [ ] Speak to [Boc the Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) at the [📍 Lake-Facing Cliffs](https://eldenring.wiki.fextralife.com/Interactive+Map?id=745&code=mapA).
 - [ ] Speak to [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta) at the [📍 Lake-Facing Cliffs](https://eldenring.wiki.fextralife.com/Interactive+Map?id=745&code=mapA) and give her a [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape).
   - [ ] Find her again [📍 near the Purified Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1501&code=mapA) and give her another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape).
