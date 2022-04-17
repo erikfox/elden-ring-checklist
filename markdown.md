@@ -103,6 +103,7 @@
 - [ ] Speak to [Boc the Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) at the [📍 Lake-Facing Cliffs](https://eldenring.wiki.fextralife.com/Interactive+Map?id=745&code=mapA).
 - [ ] Speak to [Hyetta](https://eldenring.wiki.fextralife.com/Hyetta) at the [📍 Lake-Facing Cliffs](https://eldenring.wiki.fextralife.com/Interactive+Map?id=745&code=mapA) and give her a [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape).
   - [ ] Find her again [📍 near the Purified Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1501&code=mapA) and give her another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape).
+  - [ ] Find her again [📍 near the Gate Town Bridge](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3864&code=mapA) and give her another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape).
 - [ ] Speak to [Thops](https://eldenring.wiki.fextralife.com/Thops) at the [📍 Church of Irith](https://eldenring.wiki.fextralife.com/Interactive+Map?id=799&code=mapA).
 - [ ] Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya) in a pavillion [📍 near the telescope in the south of the lake](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6127&code=mapA).
   - [ ] Retrieve her necklace from [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) who is sitting [📍 near the Boilprawn Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4547&code=mapA). Return it to her.
