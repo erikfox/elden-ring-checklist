@@ -7,9 +7,7 @@
 - [The Weeping Peninsula](#the-weeping-peninsula)
 - [Roundtable Hold](#roundtable-hold)
 - [Stormveil Castle](#stormveil-castle)
-- [South Liurnia of the Lakes](#south-liurnia-of-the-lakes)
-- [Raya Lucaria Academy](#raya-lucaria-academy)
-- [North Liurnia of the Lakes](#north-liurnia-of-the-lakes)
+- [Liurnia of the Lakes](#liurnia-of-the-lakes)
 
 ## West Limgrave
 
@@ -106,6 +104,8 @@
   - [ ] Find her again [📍 near the Gate Town Bridge](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3864&code=mapA) and give her another [Shabriri Grape](https://eldenring.wiki.fextralife.com/Shabriri+Grape).
   - [ ] Find her again [📍 inside Bellum Church](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2820&code=mapA) and give her another [Fingerprint Grape](https://eldenring.wiki.fextralife.com/Fingerprint+Grape).
 - [ ] Speak to [Thops](https://eldenring.wiki.fextralife.com/Thops) at the [📍 Church of Irith](https://eldenring.wiki.fextralife.com/Interactive+Map?id=799&code=mapA).
+  - [ ] After finding a second [Academy Glintstone Key](https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key), give it to him.
+  - [ ] Find him [📍 around the corner from the Schoolhouse Classroom](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2305&code=mapA).
 - [ ] Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya) in a pavillion [📍 near the telescope in the south of the lake](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6127&code=mapA).
   - [ ] Retrieve her necklace from [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) who is sitting [📍 near the Boilprawn Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4547&code=mapA). Return it to her.
 - [ ] Purchase [Boiled Prawns](https://eldenring.wiki.fextralife.com/Boiled+Prawn) from [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) to begin his questline.
@@ -117,12 +117,6 @@
 - [ ] Speak to [Latenna](https://eldenring.wiki.fextralife.com/Latenna) past the boss of the [📍 Lakeside Crystal Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4268&code=mapA).
 - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos) in the [📍 Academy Gate Town](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6128&code=mapA).
   - [ ] After this, he will return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold). Speak to him there.
-
-## Raya Lucaria Academy
 - [ ] Activate the red summon sign [📍 east of the Main Academy Gate](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6130&code=mapA) to be summoned to help [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura) defeat his opponent. After returning to your world, speak to him again.
-- [ ] After finding a second [Academy Glintstone Key](https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key), give it to [Thops](https://eldenring.wiki.fextralife.com/Thops) back at the [📍 Church of Irith](https://eldenring.wiki.fextralife.com/Interactive+Map?id=799&code=mapA).
-  - [ ] Find him [📍 around the corner from the Schoolhouse Classroom](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2305&code=mapA).
-
-## North Liurnia of the Lakes
 - [ ] Speak to [Miriel, Pastor of Vows](https://eldenring.wiki.fextralife.com/Miriel+Pastor+of+Vows) at the [📍 Church of Vows](https://eldenring.wiki.fextralife.com/Interactive+Map?id=801&lat=-131.53125&lng=68.773762&zoom=8&code=mapA).
 - [ ] Summon [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D+Beholder+of+Death) to fight the boss at the [📍 Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1599&code=mapA) who will drop the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint), then speak to [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier).
