@@ -122,5 +122,5 @@
   - [ ] Find him [📍 around the corner from the Schoolhouse Classroom](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2305&code=mapA).
 
 ## North Liurnia of the Lakes
-<!-- TODO: Finish linking below -->
-- [ ] Speak to [Miriel]() at the [📍 Church of Vows]().
+- [ ] Speak to [Miriel, Pastor of Vows](https://eldenring.wiki.fextralife.com/Miriel+Pastor+of+Vows) at the [📍 Church of Vows](https://eldenring.wiki.fextralife.com/Interactive+Map?id=801&lat=-131.53125&lng=68.773762&zoom=8&code=mapA).
+- [ ] Summon [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D+Beholder+of+Death) to fight the boss at the [📍 Black Knife Catacombs](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1599&code=mapA) who will drop the [Black Knifeprint](https://eldenring.wiki.fextralife.com/Black+Knifeprint), then speak to [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier).
