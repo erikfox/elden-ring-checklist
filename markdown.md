@@ -118,6 +118,8 @@
 
 ## Raya Lucaria Academy
 - [ ] Activate the red summon sign [📍 east of the Main Academy Gate](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6130&code=mapA) to be summoned to help [Bloody Finger Hunter Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura) defeat his opponent. After returning to your world, speak to him again.
+- [ ] After finding a second [Academy Glintstone Key](https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key), give it to [Thops](https://eldenring.wiki.fextralife.com/Thops) back at the [📍 Church of Irith](https://eldenring.wiki.fextralife.com/Interactive+Map?id=799&code=mapA).
+  - [ ] Find him [📍 around the corner from the Schoolhouse Classroom](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2305&code=mapA).
 
 ## North Liurnia of the Lakes
 <!-- TODO: Finish linking below -->
