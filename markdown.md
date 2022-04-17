@@ -125,4 +125,4 @@
   - [ ] Defeat the [Omenkiller](https://eldenring.wiki.fextralife.com/Omenkiller) at the end of the area. Then return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+hold).
   - [ ] Defeat the invader [Ensha](https://eldenring.wiki.fextralife.com/Ensha).
   - [ ] Speak to [Gideon Ofnir](https://eldenring.wiki.fextralife.com/Gideon+Ofnir).
-  - [ ] Speak to [Latenna](https://eldenring.wiki.fextralife.com/Latenna) past the boss of the [📍 Lakeside Crystal Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4268&code=mapA), and give her the [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)).
+  - [ ] Speak to [Latenna](https://eldenring.wiki.fextralife.com/Latenna) past the boss of the [📍 Lakeside Crystal Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4268&code=mapA), and show her the [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)). Accept her request.
