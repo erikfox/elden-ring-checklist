@@ -94,3 +94,4 @@
   - [ ] Defeat the invader [Ensha](https://eldenring.wiki.fextralife.com/Ensha).
   - [ ] Speak to [Nepheli Loux](https://eldenring.wiki.fextralife.com/Nepheli+Loux), then ask [Gideon Ofnir](https://eldenring.wiki.fextralife.com/Gideon+Ofnir) about her, then give her [The Stormhawk King](https://eldenring.wiki.fextralife.com/The+Stormhawk+King).
   - [ ] Speak to [Latenna](https://eldenring.wiki.fextralife.com/Latenna) past the boss of the [📍 Lakeside Crystal Cave](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4268&code=mapA), and show her the [Haligtree Secret Medallion (Right)](https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)). Accept her request.
+- [ ] Speak to [Smithing Master Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji) along [📍 the Road to the Manor](https://eldenring.wiki.fextralife.com/Interactive+Map?id=808&code=mapA).
