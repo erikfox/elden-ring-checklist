@@ -112,3 +112,4 @@
   - [ ] Speak to [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen).
 
 ## South Caelid
+- [ ] Speak to [Iron Fist Alexander](https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander) at the bottom of the [📍 Gael Tunnel](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2906&code=mapA). Do not take the rear entrance, as you will encounter a locked door.
