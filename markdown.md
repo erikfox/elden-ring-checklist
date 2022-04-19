@@ -8,6 +8,7 @@
 - [Roundtable Hold](#roundtable-hold)
 - [Stormveil Castle](#stormveil-castle)
 - [Liurnia of the Lakes](#liurnia-of-the-lakes)
+- [Siofra River](#siofra-river)
 
 ## West Limgrave
 - [ ] Speak to [White Mask Varre](https://eldenring.wiki.fextralife.com/White+Mask+Varre) just north of [📍 The First Step](https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8&code=mapA) to begin his questline.
@@ -98,3 +99,9 @@
 - [ ] Speak to [Ranni the Witch](https://eldenring.wiki.fextralife.com/Ranni+the+Witch) at [📍 Ranni's Rise](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1802&code=mapA).
   - [ ] Speak to [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier).
   - [ ] Speak to her again and become her vassal.
+  - [ ] Speak to her three allies: [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd), [Preceptor Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis), and [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji).
+
+## Siofra River
+- [ ] Speak to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) where he stands [📍 east of the Siofra River Bank](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2799&code=mapB).
+  - [ ] Speak to [Preceptor Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis) and receive the [letter of introduction](https://eldenring.wiki.fextralife.com/Seluvis's+Introduction).
+  - [ ] Speak to [Sorceress Sellen](https://eldenring.wiki.fextralife.com/Sorceress+Sellen).
