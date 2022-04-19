@@ -101,6 +101,10 @@
   - [ ] Speak to [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier).
   - [ ] Speak to her again and become her vassal.
   - [ ] Speak to her three allies: [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd), [Preceptor Seluvis](https://eldenring.wiki.fextralife.com/Preceptor+Seluvis), and [War Counselor Iji](https://eldenring.wiki.fextralife.com/War+Counselor+Iji).
+  - [ ] Speak to [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier) again.
+- [ ] After becoming [Ranni the Witch](https://eldenring.wiki.fextralife.com/Ranni+the+Witch)'s vassal, killing any boss will allow you to collect [Socerer Rogier](https://eldenring.wiki.fextralife.com/Sorcerer+Rogier)'s loot, including a [letter about D's family](https://eldenring.wiki.fextralife.com/Rogier's+Letter).
+  - [ ] Speak to [Fia](https://eldenring.wiki.fextralife.com/Fia), who will give you a [Weathered Dagger](https://eldenring.wiki.fextralife.com/Weathered+Dagger). Give the dagger to [D, Hunter of the Dead](https://eldenring.wiki.fextralife.com/D+Beholder+of+Death).
+  - [ ] After reloading the area, you will find [Fia](https://eldenring.wiki.fextralife.com/Fia) in a newly unlocked room beyond [Smithing Master Hewg](https://eldenring.wiki.fextralife.com/Smithing+Master+Hewg). Speak to her there.
 
 ## Siofra River
 - [ ] Speak to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) where he stands [📍 east of the Siofra River Bank](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2799&code=mapB).
