@@ -118,3 +118,4 @@
   - [ ] Solve [Sellia's Secret](https://eldenring.wiki.fextralife.com/Sellia's+Secret) and unlock the next area.
   - [ ] After reloading the area, received the repaired needle from [Gowry](https://eldenring.wiki.fextralife.com/Gowry), then give it to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [📍 Church of the Plague](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3218&code=mapA).
   - [ ] Reload the area, then speak to her again.
+  - [ ] Return to [📍 Gowry's Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3187&code=mapA), speak to her there, reload the area, then speak to [Gowry](https://eldenring.wiki.fextralife.com/Gowry).
