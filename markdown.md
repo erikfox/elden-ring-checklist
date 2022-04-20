@@ -119,3 +119,9 @@
   - [ ] After reloading the area, received the repaired needle from [Gowry](https://eldenring.wiki.fextralife.com/Gowry), then give it to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) at the [📍 Church of the Plague](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3218&code=mapA).
   - [ ] Reload the area, then speak to her again.
   - [ ] Return to [📍 Gowry's Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3187&code=mapA), speak to her there, reload the area, then speak to [Gowry](https://eldenring.wiki.fextralife.com/Gowry).
+- [ ] Attend the Radahn Festival at [📍 Redmane Castle](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6528&code=mapA). You can gain access by taking the waygate by the [📍 Impassable Bridge](https://eldenring.wiki.fextralife.com/Interactive+Map?id=2961&code=mapA).
+  - [ ] Speak to [Blaidd](https://eldenring.wiki.fextralife.com/Blaidd) and [Iron Fist Alexander](https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander) before the boss fight.
+  - [ ] Defeat [Starscourge Radahn](https://eldenring.wiki.fextralife.com/Starscourge+Radahn) then speak to them again in boss arena, immediately after the fight.
+  - [ ] Purchase [Radahn's Lion Armor](https://eldenring.wiki.fextralife.com/Radahn's+Lion+Armor) from [Enia](https://eldenring.wiki.fextralife.com/Enia) (or any alterable demigod clothing piece) and take it to [Boc the Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) by the [📍 East Raya Lucaria Gate](https://eldenring.wiki.fextralife.com/Interactive+map?id=6103&lat=-122.351562&lng=61.637186&zoom=8&code=mapA).
+    - [ ] Give him the [Gold Sewing Needle](https://eldenring.wiki.fextralife.com/Gold+Sewing+Needle), then exhaust his dialogue.
+    - [ ] Rest at the site of grace and speak to [Melina](https://eldenring.wiki.fextralife.com/Melina) about him.
