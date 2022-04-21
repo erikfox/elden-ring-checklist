@@ -125,3 +125,13 @@
   - [ ] Purchase [Radahn's Lion Armor](https://eldenring.wiki.fextralife.com/Radahn's+Lion+Armor) from [Enia](https://eldenring.wiki.fextralife.com/Enia) (or any alterable demigod clothing piece) and take it to [Boc the Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) by the [📍 East Raya Lucaria Gate](https://eldenring.wiki.fextralife.com/Interactive+map?id=6103&lat=-122.351562&lng=61.637186&zoom=8&code=mapA).
     - [ ] Give him the [Gold Sewing Needle](https://eldenring.wiki.fextralife.com/Gold+Sewing+Needle), then exhaust his dialogue.
     - [ ] Rest at the site of grace and speak to [Melina](https://eldenring.wiki.fextralife.com/Melina) about him.
+
+## Nokron, Eternal City
+- [ ] [OPTIONAL] Free [Blaidd]() from the [📍 Forlorn Hound Evergaol]().
+
+## Altus Plateau
+
+## Volcano Manor
+- [ ] Gain entrance to [Volcano Manor]() by:
+  - [ ] a) Speak to [Rya]() on the [stairs of the Grand Lift of Dectus]() if you gained access to the are using the lift.
+  - [ ] b) Speak to [Rya]() near the [Lux Ruins]() if you gained access to the area by taking the [Ruin-Strewn Precipice] path.
