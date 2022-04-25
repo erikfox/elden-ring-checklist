@@ -128,8 +128,11 @@
 
 ## Nokron, Eternal City
 - [ ] [OPTIONAL] Free [Blaidd]() from the [📍 Forlorn Hound Evergaol]().
+- [ ] Collect the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade) from a [📍 chest in Night's Sacred Ground](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1954&code=mapB) and give it to [Ranni](https://eldenring.wiki.fextralife.com/Ranni+the+Witch).
 
 ## Altus Plateau
+- [ ] Speak to [Millicent]().
+- [ ] Speak to 
 
 ## Volcano Manor
 - [ ] Gain entrance to [Volcano Manor]() by:
