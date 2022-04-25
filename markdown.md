@@ -132,7 +132,7 @@
 - [ ] Give [D's Twin Brother](https://eldenring.wiki.fextralife.com/D's+Twin+Brother) the [Twinned Armor](https://eldenring.wiki.fextralife.com/Twinned+Armor).
 
 ## Altus Plateau
-- [ ] Speak to [Millicent]().
+- [ ] Speak to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) where she is standing at the [📍 edge of the Erdtree-Gazing Hill](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5792&code=mapA).
 - [ ] Speak to 
 
 ## Volcano Manor
