@@ -129,6 +129,7 @@
 ## Nokron, Eternal City
 - [ ] [OPTIONAL] Free [Blaidd]() from the [📍 Forlorn Hound Evergaol]().
 - [ ] Collect the [Fingerslayer Blade](https://eldenring.wiki.fextralife.com/Fingerslayer+Blade) from a [📍 chest in Night's Sacred Ground](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1954&code=mapB) and give it to [Ranni](https://eldenring.wiki.fextralife.com/Ranni+the+Witch).
+- [ ] Give [D's Twin Brother](https://eldenring.wiki.fextralife.com/D's+Twin+Brother) the [Twinned Armor](https://eldenring.wiki.fextralife.com/Twinned+Armor).
 
 ## Altus Plateau
 - [ ] Speak to [Millicent]().
