@@ -134,6 +134,7 @@
 ## Altus Plateau
 - [ ] Speak to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) where she is standing at the [📍 edge of the Erdtree-Gazing Hill](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5792&code=mapA).
   - [ ] Give her the [Valkyrie's Prosthesis](https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis).
+  - [ ] Speak to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) at [📍 Gowry's Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3187&code=mapA) about her.
 
 ## Volcano Manor
 - [ ] Gain entrance to [Volcano Manor]() by:
