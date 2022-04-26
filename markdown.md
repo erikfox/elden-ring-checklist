@@ -133,7 +133,7 @@
 
 ## Altus Plateau
 - [ ] Speak to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) where she is standing at the [📍 edge of the Erdtree-Gazing Hill](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5792&code=mapA).
-- [ ] Speak to 
+  - [ ] Give her the [Valkyrie's Prosthesis](https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis).
 
 ## Volcano Manor
 - [ ] Gain entrance to [Volcano Manor]() by:
