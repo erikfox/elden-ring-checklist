@@ -134,8 +134,10 @@
 ## Altus Plateau
 - [ ] Speak to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) where she is standing at the [📍 edge of the Erdtree-Gazing Hill](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5792&code=mapA).
   - [ ] Give her the [Valkyrie's Prosthesis](https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis).
-  - [ ] Speak to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) at [📍 Gowry's Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3187&code=mapA) about her.
-- [ ] Speak to [Boc](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) by the [📍 Altus Highway Junction](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5801&code=mapA).
+  - [ ] Speak to [Gowry](https://eldenring.wiki.fextralife.com/Gowry) at [📍 Gowry's Shack](https://eldenring.wiki.fextralife.com/Interactive+Map?id=3187&code=mapA) about giving her the prosthesis.
+  - [ ] Purchase an incantation from [Gowry](https://eldenring.wiki.fextralife.com/Gowry) and then confirm that you are interested in rot cantations. Then speak to him about [Malenia](https://eldenring.wiki.fextralife.com/Malenia+Blade+of+Miquella).
+- [ ] Speak to [Boc](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) by the [📍 Altus Highway Junction](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5801&code=mapA) and hear his request.
+- [ ] Speak to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) about [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) along the [📍 road to the north](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5799&code=mapA).
 
 ## Volcano Manor
 - [ ] Gain entrance to [Volcano Manor]() by:
