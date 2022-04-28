@@ -138,8 +138,10 @@
   - [ ] Purchase an incantation from [Gowry](https://eldenring.wiki.fextralife.com/Gowry) and then confirm that you are interested in rot cantations. Then speak to him about [Malenia](https://eldenring.wiki.fextralife.com/Malenia+Blade+of+Miquella).
 - [ ] Speak to [Boc](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) by the [📍 Altus Highway Junction](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5801&code=mapA) and hear his request.
 - [ ] Speak to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) about [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) along the [📍 road to the north](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5799&code=mapA).
+  - [ ] Speak to [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) at the [📍 north part of the greatbridge](https://eldenring.wiki.fextralife.com/Interactive+map?id=5808&code=mapA).
+  - [ ] Speak to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) again.
+  - [ ] Travel back to [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) and speak to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) who is now beside him.
 - [ ] Speak to [Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura) at the [📍 Second Church of Marika](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5796&code=mapA), then defeat the invading [Bloody Finger Eleonora](https://eldenring.wiki.fextralife.com/Bloody+Finger+Eleonora).
-- [ ] [OPTIONAL] Speak to [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) at the [📍 north part of the greatbridge](https://eldenring.wiki.fextralife.com/Interactive+map?id=5808&code=mapA).
 - [ ] Defeat the boss at [📍 Dominula, Windmill Village](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5845&code=mapA), reload the area, then speak to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) who will now be nearby.
 
 ## Volcano Manor
