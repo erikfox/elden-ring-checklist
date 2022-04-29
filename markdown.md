@@ -145,10 +145,10 @@
 - [ ] Speak to [Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura) at the [📍 Second Church of Marika](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5796&code=mapA), then defeat the invading [Bloody Finger Eleonora](https://eldenring.wiki.fextralife.com/Bloody+Finger+Eleonora).
 - [ ] Defeat the boss at [📍 Dominula, Windmill Village](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5845&code=mapA), reload the area, then speak to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) who will now be nearby.
 
+## Mount Gelmir
+- [ ] Speak to [Iron Fist Alexander](https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander) in the lava lake [📍 South of Fort Laiedd](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5417&code=mapA).
+
 ## Volcano Manor
 - [ ] Gain entrance to [Volcano Manor]() by:
   - [ ] a) Speak to [Rya]() on the [stairs of the Grand Lift of Dectus]() if you gained access to the are using the lift.
   - [ ] b) Speak to [Rya]() near the [Lux Ruins]() if you gained access to the area by taking the [Ruin-Strewn Precipice] path.
-
-## Mount Gelmir
-- [ ] Speak to [Iron Fist Alexander](https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander) in the lava lake [📍 South of Fort Laiedd](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5417&code=mapA).
