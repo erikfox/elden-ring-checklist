@@ -152,3 +152,6 @@
 - [ ] Gain entrance to [Volcano Manor]() by:
   - [ ] a) Speak to [Rya]() on the [stairs of the Grand Lift of Dectus]() if you gained access to the are using the lift.
   - [ ] b) Speak to [Rya]() near the [Lux Ruins]() if you gained access to the area by taking the [Ruin-Strewn Precipice] path.
+
+## North Caelid
+- [ ] Finish Sellen's quest (...)
