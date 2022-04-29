@@ -10,6 +10,7 @@
 - [Liurnia of the Lakes](#liurnia-of-the-lakes)
 - [Siofra River](#siofra-river)
 - [South Caelid](#south-caelid)
+- [Mount Gelmir](#mount-gelmir)
 
 ## West Limgrave
 - [ ] Speak to [White Mask Varre](https://eldenring.wiki.fextralife.com/White+Mask+Varre) just north of [📍 The First Step](https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8&code=mapA) to begin his questline.
@@ -148,3 +149,6 @@
 - [ ] Gain entrance to [Volcano Manor]() by:
   - [ ] a) Speak to [Rya]() on the [stairs of the Grand Lift of Dectus]() if you gained access to the are using the lift.
   - [ ] b) Speak to [Rya]() near the [Lux Ruins]() if you gained access to the area by taking the [Ruin-Strewn Precipice] path.
+
+## Mount Gelmir
+- [ ] Speak to [Iron Fist Alexander](https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander) in the lava lake [📍 South of Fort Laiedd](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5417&code=mapA).
