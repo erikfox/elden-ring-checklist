@@ -166,6 +166,10 @@
     - [ ] Hunt [Rileigh the Idle](https://eldenring.wiki.fextralife.com/Rileigh+the+Idle), then inform [Lady Tanith](https://eldenring.wiki.fextralife.com/Tanith) of your success. 
   - [ ] After touching the grace at the [📍 Prison Town Church](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4520&code=mapA), speak to [Rya](https://eldenring.wiki.fextralife.com/Rya).
     - [ ] After defeating the boss at the [📍 Temple of Eiglay](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4136&code=mapA), give her the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion).
+  - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos).
+    - [ ] Speak to him at [Jarburg](https://eldenring.wiki.fextralife.com/Jarburg).
+  - [ ] Collect the [Red Letter]((https://eldenring.wiki.fextralife.com/Red+Letter) from the drawing room.
+    - [ ] Hunt [Juno Hoslow](https://eldenring.wiki.fextralife.com/Juno+Hoslow,+Knight+of+Blood).
   - [ ] Speak to [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl) to receive the [Letter to Bernahl](https://eldenring.wiki.fextralife.com/Letter+to+Bernahl).
     - [ ] Join him to hunt [Vagram the Raging Wolf](https://eldenring.wiki.fextralife.com/Vargram+the+Raging+Wolf) and [Errant Sorcerer Wilhelm](https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Wilhelm), then speak to him again. 
 
