@@ -166,6 +166,8 @@
     - [ ] Hunt [Rileigh the Idle](https://eldenring.wiki.fextralife.com/Rileigh+the+Idle), then inform [Lady Tanith](https://eldenring.wiki.fextralife.com/Tanith) of your success. 
   - [ ] After touching the grace at the [📍 Prison Town Church](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4520&code=mapA), speak to [Rya](https://eldenring.wiki.fextralife.com/Rya).
     - [ ] After defeating the boss at the [📍 Temple of Eiglay](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4136&code=mapA), give her the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion).
+    - [ ] Reload the area, then speak to [Lady Tanith](https://eldenring.wiki.fextralife.com/Tanith) until she gives you the [Tonic of Forgetfulness](https://eldenring.wiki.fextralife.com/Tonic+of+Forgetfulness).
+    - [ ] [TO BE CONTINUED]
   - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos).
     - [ ] Go to [📍 Jarburg](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4265&code=mapA) and speak to both him and [Jar Bairn](https://eldenring.wiki.fextralife.com/Jar+Bairn).
     - [ ] Return after you reach [Mountaintops of the Giants](https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants).
