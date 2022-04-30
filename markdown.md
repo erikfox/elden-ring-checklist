@@ -167,7 +167,8 @@
   - [ ] After touching the grace at the [📍 Prison Town Church](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4520&code=mapA), speak to [Rya](https://eldenring.wiki.fextralife.com/Rya).
     - [ ] After defeating the boss at the [📍 Temple of Eiglay](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4136&code=mapA), give her the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion).
   - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos).
-    - [ ] Speak to him at [Jarburg](https://eldenring.wiki.fextralife.com/Jarburg).
+    - [ ] Go to [📍 Jarburg](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4265&code=mapA) and speak to both him and [Jar Bairn](https://eldenring.wiki.fextralife.com/Jar+Bairn).
+    - [ ] Return after you reach [Mountaintops of the Giants](https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants).
   - [ ] Collect the [Red Letter]((https://eldenring.wiki.fextralife.com/Red+Letter) from the drawing room.
     - [ ] Hunt [Juno Hoslow](https://eldenring.wiki.fextralife.com/Juno+Hoslow,+Knight+of+Blood).
   - [ ] Speak to [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl) to receive the [Letter to Bernahl](https://eldenring.wiki.fextralife.com/Letter+to+Bernahl).
