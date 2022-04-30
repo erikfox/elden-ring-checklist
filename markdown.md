@@ -11,6 +11,9 @@
 - [Siofra River](#siofra-river)
 - [South Caelid](#south-caelid)
 - [Mount Gelmir](#mount-gelmir)
+- [Volcano Manor](#volcano-manor)
+- [North Caelid](#north-caelid)
+- [Mountaintops of the Giants](#mountaintops-of-the-giants)
 
 ## West Limgrave
 - [ ] Speak to [White Mask Varre](https://eldenring.wiki.fextralife.com/White+Mask+Varre) just north of [📍 The First Step](https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8&code=mapA) to begin his questline.
@@ -167,14 +170,18 @@
   - [ ] After touching the grace at the [📍 Prison Town Church](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4520&code=mapA), speak to [Rya](https://eldenring.wiki.fextralife.com/Rya).
     - [ ] After defeating the boss at the [📍 Temple of Eiglay](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4136&code=mapA), give her the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion).
     - [ ] Reload the area, then speak to [Lady Tanith](https://eldenring.wiki.fextralife.com/Tanith) until she gives you the [Tonic of Forgetfulness](https://eldenring.wiki.fextralife.com/Tonic+of+Forgetfulness).
-    - [ ] [TO BE CONTINUED]
+    - [ ] [TO BE CONTINUED...]
   - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos).
     - [ ] Go to [📍 Jarburg](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4265&code=mapA) and speak to both him and [Jar Bairn](https://eldenring.wiki.fextralife.com/Jar+Bairn).
-    - [ ] Return after you reach [Mountaintops of the Giants](https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants).
-  - [ ] Collect the [Red Letter]((https://eldenring.wiki.fextralife.com/Red+Letter) from the drawing room.
-    - [ ] Hunt [Juno Hoslow](https://eldenring.wiki.fextralife.com/Juno+Hoslow,+Knight+of+Blood).
+    - [ ] Continue after you reach the [Mountaintops of the Giants](#mountaintops-of-the-giants).
+  - [ ] Collect the [Red Letter](https://eldenring.wiki.fextralife.com/Red+Letter) from the drawing room.
+    - [ ] Continue after you reach the [Mountaintops of the Giants](#mountaintops-of-the-giants).
   - [ ] Speak to [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl) to receive the [Letter to Bernahl](https://eldenring.wiki.fextralife.com/Letter+to+Bernahl).
     - [ ] Join him to hunt [Vagram the Raging Wolf](https://eldenring.wiki.fextralife.com/Vargram+the+Raging+Wolf) and [Errant Sorcerer Wilhelm](https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Wilhelm), then speak to him again. 
 
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
+
+## Mountaintops of the Giants
+- [ ] Hunt [Juno Hoslow](https://eldenring.wiki.fextralife.com/Juno+Hoslow,+Knight+of+Blood).
+- [ ] Go to [📍 Jarburg](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4265&code=mapA) and discover what has happened.
