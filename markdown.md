@@ -150,8 +150,8 @@
 
 ## Volcano Manor
 - [ ] Gain entrance to [Volcano Manor](https://eldenring.wiki.fextralife.com/Volcano+Manor) by:
-  - [ ] a) Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya) on the [📍 stairs of the Grand Lift of Dectus](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6265&code=mapA) if you gained access to the are using the lift.
-  - [ ] b) Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya) near the [📍 Lux Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6264&code=mapA) if you gained access to the area by taking the [📍 Ruin-Strewn Precipice](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1652&code=mapA) path.
+  - [ ] a) Speaking to [Rya](https://eldenring.wiki.fextralife.com/Rya) on the [📍 stairs of the Grand Lift of Dectus](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6265&code=mapA) if you gained access to the are using the lift.
+  - [ ] b) Speaking to [Rya](https://eldenring.wiki.fextralife.com/Rya) near the [📍 Lux Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6264&code=mapA) if you gained access to the area by taking the [📍 Ruin-Strewn Precipice](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1652&code=mapA) path.
   - [ ] c) Walking through the [📍 front door via the Road of Iniquity](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1236&code=mapA).
 
 ## North Caelid
