@@ -154,7 +154,15 @@
   - [ ] b) Speaking to [Rya](https://eldenring.wiki.fextralife.com/Rya) near the [📍 Lux Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6264&code=mapA) if you gained access to the area by taking the [📍 Ruin-Strewn Precipice](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1652&code=mapA) path.
   - [ ] c) Walking through the [📍 front door via the Road of Iniquity](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1236&code=mapA).
 - [ ] Speak to [Lady Tanith](https://eldenring.wiki.fextralife.com/Tanith) in the [📍 welcoming room](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1235&code=mapA).
-- [ ] Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya), [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl), and [Diallos](https://eldenring.wiki.fextralife.com/Diallos) in the nearby drawing room. Collect the [Letter from Volcano Manor](https://eldenring.wiki.fextralife.com/Letter+from+Volcano+Manor) and [Recusant Finger](https://eldenring.wiki.fextralife.com/Recusant+Finger) here as well.
+- [ ] Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya), [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl), and [Diallos](https://eldenring.wiki.fextralife.com/Diallos) in the nearby drawing room.
+- [ ] Collect the [Letter from Volcano Manor](https://eldenring.wiki.fextralife.com/Letter+from+Volcano+Manor) and [Recusant Finger](https://eldenring.wiki.fextralife.com/Recusant+Finger) here as well.
+  - [ ] Hunt [Old Knight Istvan](https://eldenring.wiki.fextralife.com/Old+Knight+Istvan), then inform [Lady Tanith](https://eldenring.wiki.fextralife.com/Tanith) of your success.
+  - [ ] Speak to [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl).
+  - [ ] Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya), reload the area, then speak her again in the room across the hall.
+  - [ ] Speak to [Patches](https://eldenring.wiki.fextralife.com/Patches) in the entryway to the manor until you are given the [Letter to Patches](https://eldenring.wiki.fextralife.com/Letter+to+Patches).
+    - [ ] Hunt [Great Horned Tragoth](https://eldenring.wiki.fextralife.com/Great+Horned+Tragoth) then inform him of your success.
+    - [ ] Reload the area and speak to him again.
+  - [ ] Collect the second [Letter from Volcano Manor](https://eldenring.wiki.fextralife.com/Letter+from+Volcano+Manor) from the drawing room.
 
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
