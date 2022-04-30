@@ -154,7 +154,7 @@
   - [ ] b) Speaking to [Rya](https://eldenring.wiki.fextralife.com/Rya) near the [📍 Lux Ruins](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6264&code=mapA) if you gained access to the area by taking the [📍 Ruin-Strewn Precipice](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1652&code=mapA) path.
   - [ ] c) Walking through the [📍 front door via the Road of Iniquity](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1236&code=mapA).
 - [ ] Speak to [Lady Tanith](https://eldenring.wiki.fextralife.com/Tanith) in the [📍 welcoming room](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1235&code=mapA).
-- [ ] Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya) and [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl) in the nearby drawing room.
+- [ ] Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya), [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl), and [Diallos](https://eldenring.wiki.fextralife.com/Diallos) in the nearby drawing room. Collect the [Letter from Volcano Manor](https://eldenring.wiki.fextralife.com/Letter+from+Volcano+Manor) and [Recusant Finger](https://eldenring.wiki.fextralife.com/Recusant+Finger) here as well.
 
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
