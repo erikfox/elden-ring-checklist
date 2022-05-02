@@ -170,14 +170,14 @@
   - [ ] After touching the grace at the [📍 Prison Town Church](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4520&code=mapA), speak to [Rya](https://eldenring.wiki.fextralife.com/Rya).
     - [ ] After defeating the boss at the [📍 Temple of Eiglay](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4136&code=mapA), give her the [Serpent's Amnion](https://eldenring.wiki.fextralife.com/Serpent's+Amnion).
     - [ ] Reload the area, then speak to [Lady Tanith](https://eldenring.wiki.fextralife.com/Tanith) until she gives you the [Tonic of Forgetfulness](https://eldenring.wiki.fextralife.com/Tonic+of+Forgetfulness).
-    - [ ] [TO BE CONTINUED...]
+    - [ ] Speak to [Rya](https://eldenring.wiki.fextralife.com/Rya) at her new location [📍 deep in the lava area](https://eldenring.wiki.fextralife.com/Interactive+Map?id=8840&code=mapA).
   - [ ] Speak to [Diallos](https://eldenring.wiki.fextralife.com/Diallos).
     - [ ] Go to [📍 Jarburg](https://eldenring.wiki.fextralife.com/Interactive+Map?id=4265&code=mapA) and speak to both him and [Jar Bairn](https://eldenring.wiki.fextralife.com/Jar+Bairn).
     - [ ] Continue after you reach the [Mountaintops of the Giants](#mountaintops-of-the-giants).
   - [ ] Collect the [Red Letter](https://eldenring.wiki.fextralife.com/Red+Letter) from the drawing room.
     - [ ] Continue after you reach the [Mountaintops of the Giants](#mountaintops-of-the-giants).
   - [ ] Speak to [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl) to receive the [Letter to Bernahl](https://eldenring.wiki.fextralife.com/Letter+to+Bernahl).
-    - [ ] Join him to hunt [Vagram the Raging Wolf](https://eldenring.wiki.fextralife.com/Vargram+the+Raging+Wolf) and [Errant Sorcerer Wilhelm](https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Wilhelm), then speak to him again. 
+    - [ ] Join him to hunt [Vagram the Raging Wolf](https://eldenring.wiki.fextralife.com/Vargram+the+Raging+Wolf) and [Errant Sorcerer Wilhelm](https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Wilhelm), then speak to him again.
 
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
