@@ -184,6 +184,10 @@
   - [ ] Speak to him again after you've acquired a [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse). 
   - [ ] Speak to [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) about the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) in the [📍 north part of the mote](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6133&code=mapA).
 
+## Leyndell Royal Capital
+- [ ] Rest at the [📍 East Capital Rampart (or any site of grace in the capital)](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1232&code=mapA) to speak to [Melina](https://eldenring.wiki.fextralife.com/Melina).
+- [ ] 
+
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
 
