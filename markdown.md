@@ -186,7 +186,10 @@
 
 ## Leyndell Royal Capital
 - [ ] Rest at the [📍 East Capital Rampart grace](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1232&code=mapA) (or any site of grace in the capital) to speak to [Melina](https://eldenring.wiki.fextralife.com/Melina).
-- [ ] 
+- [ ] Speak to [Boc the Seamster](https://eldenring.wiki.fextralife.com/Boc+the+Seamster) at the [📍 East Capital Rampart grace](https://eldenring.wiki.fextralife.com/Interactive+Map?id=1232&code=mapA) and hear what he has to say about rebirth, then:
+  - [ ] Option A: Use the ["You're Beautiful" Prattling Pate](https://eldenring.wiki.fextralife.com/Prattling+Pate+You're+Beautiful) in front of him then speak to him again. He will remain at this site of grace.
+  - [ ] Option B: Give him a [Larval Tear](https://eldenring.wiki.fextralife.com/Larval+Tear). This will cause him to move next to [Rennala](https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon), be reborn as a human, but become unresponsive to you.
+  - [ ] Option C: Do nothing. He will eventually move outside the [Raya Lucaria Grand Library](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5846&code=mapA).
 
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
