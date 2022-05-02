@@ -179,6 +179,11 @@
   - [ ] Speak to [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl) to receive the [Letter to Bernahl](https://eldenring.wiki.fextralife.com/Letter+to+Bernahl).
     - [ ] Join him to hunt [Vagram the Raging Wolf](https://eldenring.wiki.fextralife.com/Vargram+the+Raging+Wolf) and [Errant Sorcerer Wilhelm](https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Wilhelm), then speak to him again.
 
+## Capital Outskirts
+- [ ] Speak to the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) in the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+  - [ ] Speak to him again after you've acquired a [Seedbed Curse](https://eldenring.wiki.fextralife.com/Seedbed+Curse). 
+  - [ ] Speak to [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) about the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) in the [📍 north part of the mote](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6133&code=mapA).
+
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
 
