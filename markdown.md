@@ -195,7 +195,12 @@
 - [ ] After defeating [Morgott, the Omen King](https://eldenring.wiki.fextralife.com/Morgott,+the+Omen+King), rest at the site of grace and speak to [Melina](https://eldenring.wiki.fextralife.com/Melina).
 
 ## [Subterranean Shunning-Grounds](https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds)
-- [ ] Use the [Sewer-Gaol Key](https://eldenring.wiki.fextralife.com/Sewer-Gaol+Key) to release the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) from his cell, then speak to him at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+- [ ] Use the [Sewer-Gaol Key](https://eldenring.wiki.fextralife.com/Sewer-Gaol+Key) to release the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) from his cell, then read his message at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+  - [ ] Speak to [Blackguard Big Boggart](https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart) about the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) in the [📍 north part of the mote](https://eldenring.wiki.fextralife.com/Interactive+Map?id=6133&code=mapA). Reload the area then speak to him again to be invaded.
+  - [ ] After defeating the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater), return to the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold) and speak to him again.
+  - [ ] Go back to his sewer cell and:
+    - [ ] Option A: Give him five total [Seedbed Curses](https://eldenring.wiki.fextralife.com/Seedbed+Curse) to receive the [Mending Rune of the Fell Curse](https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse). Reload the area to receive the [Omen Set](https://eldenring.wiki.fextralife.com/Omen+Set).
+    - [ ] Give him [Seluvis's Potion](https://eldenring.wiki.fextralife.com/Seluvis's+Potion) to turn him into a puppet to be purchased from [Preceptor Seluvis](https://eldenring.wiki.fextralife.com/preceptor+seluvis). 
 
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
