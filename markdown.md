@@ -191,6 +191,7 @@
   - [ ] Option B: Give him a [Larval Tear](https://eldenring.wiki.fextralife.com/Larval+Tear). This will cause him to move next to [Rennala](https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon), be reborn as a human, but become unresponsive to you.
   - [ ] Option C: Do nothing. He will eventually move outside the [Raya Lucaria Grand Library](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5846&code=mapA).
 - [ ] Hunt [Vargram the Raging Wolf](https://eldenring.wiki.fextralife.com/Vargram+the+Raging+Wolf) and [Errant Sorcerer Wilhelm](https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Wilhelm), then speak to [Knight Bernahl](https://eldenring.wiki.fextralife.com/Knight+Bernahl).
+- [ ] Speak to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) about [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) along the [📍 outside the Colosseum](https://eldenring.wiki.fextralife.com/Interactive+map?id=6135&code=mapA).
 
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
