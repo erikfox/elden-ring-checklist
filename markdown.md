@@ -194,6 +194,8 @@
 - [ ] Speak to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) about [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) along the [📍 outside the Colosseum](https://eldenring.wiki.fextralife.com/Interactive+map?id=6135&code=mapA).
 - [ ] After defeating [Morgott, the Omen King](https://eldenring.wiki.fextralife.com/Morgott,+the+Omen+King), rest at the site of grace and speak to [Melina](https://eldenring.wiki.fextralife.com/Melina).
 
+## [Subterranean Shunning-Grounds](https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds)
+
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
 
