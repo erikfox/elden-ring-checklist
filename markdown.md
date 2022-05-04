@@ -195,7 +195,7 @@
 - [ ] After defeating [Morgott, the Omen King](https://eldenring.wiki.fextralife.com/Morgott,+the+Omen+King), rest at the site of grace and speak to [Melina](https://eldenring.wiki.fextralife.com/Melina).
 
 ## [Subterranean Shunning-Grounds](https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds)
-- [ ] Use the [Sewer Gaol Key](https://eldenring.wiki.fextralife.com/Sewer+Gaol+Key) to release the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) from his cell, then speak to him at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
+- [ ] Use the [Sewer-Gaol Key](https://eldenring.wiki.fextralife.com/Sewer-Gaol+Key) to release the [Dung Eater](https://eldenring.wiki.fextralife.com/Dung+Eater) from his cell, then speak to him at the [Roundtable Hold](https://eldenring.wiki.fextralife.com/Roundtable+Hold).
 
 ## North Caelid
 - [ ] Finish Sellen's quest (...)
