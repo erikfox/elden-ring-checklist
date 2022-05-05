@@ -147,6 +147,8 @@
   - [ ] Travel back to [Goldmask](https://eldenring.wiki.fextralife.com/Goldmask) and speak to [Brother Corhyn](https://eldenring.wiki.fextralife.com/Brother+Corhyn) who is now beside him.
 - [ ] Speak to [Yura](https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura) at the [📍 Second Church of Marika](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5796&code=mapA), then defeat the invading [Bloody Finger Eleonora](https://eldenring.wiki.fextralife.com/Bloody+Finger+Eleonora).
 - [ ] Defeat the boss at [📍 Dominula, Windmill Village](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5845&code=mapA), reload the area, then speak to [Millicent](https://eldenring.wiki.fextralife.com/Millicent) who will now be nearby.
+- [ ] After obtaining the [Amber Starlight](https://eldenring.wiki.fextralife.com/Amber+Starlight):
+  - [ ] TBA...
 
 ## Mount Gelmir
 - [ ] Speak to [Iron Fist Alexander](https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander) in the lava lake [📍 South of Fort Laiedd](https://eldenring.wiki.fextralife.com/Interactive+Map?id=5417&code=mapA).
